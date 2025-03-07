@@ -14,8 +14,15 @@
 
 ## 💻 Projeto
 
-[Ignite Feed](https://ignite-feed-ochre.vercel.app/) é um projeto desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em criar um projeto no
-estilo feed de posts.
+[Ignite Feed](https://ignite-feed-ochre.vercel.app/) é um projeto desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em criar um projeto no estilo feed de posts.
+
+## 🌟 Funcionalidades
+
+1. **Visualização de Posts**: Exibe uma lista de posts com título, conteúdo e autor.
+2. **Comentários**: Os usuários podem comentar nos posts, criando uma interação mais rica. 
+3. **Armazenamento local**: Utiliza o **local storage** ou banco de dados para persistir os dados e garantir que as interações sejam mantidas mesmo após o fechamento do app.
+4. **Carregamento dinâmico**: Os posts são carregados dinamicamente com base em dados provenientes de uma **API REST** ou similar.
+5. **Atualizações em tempo real**: O feed é atualizado automaticamente para refletir novas postagens ou comentários.
 
 ## 🧪 Technologies
 
