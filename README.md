@@ -24,7 +24,7 @@
 4. **Carregamento dinâmico**: Os posts são carregados dinamicamente com base em dados provenientes de uma **API REST** ou similar.
 5. **Atualizações em tempo real**: O feed é atualizado automaticamente para refletir novas postagens ou comentários.
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
